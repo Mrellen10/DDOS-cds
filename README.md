@@ -1,4 +1,4 @@
-# SCRIPT PYTHON ATTACKER DEAD KILLER ADK ~
+# SCRIPT PYTHON ATTACKER CYBER DARK SISTEM  CDS ~
 # TESTED ALL OS
 
 USAGE : 
@@ -6,7 +6,7 @@ USAGE :
 ~ Install Python2/3
 
 # run termux
-- cd DDOS-ADK
+- cd DDOS-CDS
 - python2 namascript.py
 - python2 namascript.py url
 
